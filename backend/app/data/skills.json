@@ -1,0 +1,25 @@
+{
+  "Programming Languages": [
+    "Java", "Python", "JavaScript", "TypeScript", "C", "C++", "C#", "PHP", "Go", "Kotlin", "SQL"
+  ],
+  
+  "Backend Development": [
+    "Spring Boot", "Spring Framework", "Hibernate", "FastAPI", "Django", "Flask", "Node.js", "Express.js",
+    "REST API", "Microservices"
+  ],
+  
+  "Frontend Development": ["HTML", "CSS", "React", "Angular", "Vue.js", "Bootstrap", "Tailwind CSS"],
+  
+  "Databases": ["PostgreSQL", "MySQL", "Oracle", "MongoDB", "Redis", "SQL Server"],
+
+  "AI and Machine Learning": [
+    "Machine Learning", "Deep Learning", "Artificial Intelligence", "Generative AI", "Natural Language Processing",
+    "NLP", "RAG", "LangChain", "TensorFlow", "PyTorch", "Scikit-learn", "Sentence Transformers"
+  ],
+  
+  "Cloud and DevOps": ["Docker", "Kubernetes", "Git", "GitHub", "Jenkins", "AWS", "Microsoft Azure", "CI/CD", "Linux"],
+  
+  "Testing and Automation": [
+    "Selenium", "Playwright", "Pytest", "JUnit", "Postman", "TestNG", "API Testing", "Automation Testing"
+  ]
+}

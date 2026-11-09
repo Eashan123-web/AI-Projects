@@ -1,0 +1,29 @@
+
+{
+  "Programming Languages": {
+    "JavaScript": ["JS", "ECMAScript"], "TypeScript": ["TS"], "C++": ["CPP"], "C#": ["C Sharp"], "Python": ["Python 3"]
+  },
+  "Backend Development": {
+    "Spring Boot": ["SpringBoot"], "Spring Framework": ["Spring"],
+    "REST API": ["REST APIs", "RESTful API", "RESTful APIs", "RESTful services", "REST web services"],
+    "Node.js": ["NodeJS", "Node JS"], "Express.js": ["ExpressJS", "Express JS"]
+  },
+  "Frontend Development": {
+    "Vue.js": ["VueJS", "Vue JS"], "Tailwind CSS": ["Tailwind"]
+  },
+  "Databases": {
+    "PostgreSQL": ["Postgres", "Postgre SQL"], "MySQL": ["My SQL"], 
+    "MongoDB": ["Mongo DB"], "SQL Server": ["Microsoft SQL Server", "MSSQL"]
+  },
+  "AI and Machine Learning": {
+    "Machine Learning": ["ML"], "Deep Learning": ["DL"], "Artificial Intelligence": ["AI"], 
+    "Generative AI": ["GenAI", "Gen AI"], "Natural Language Processing": ["NLP"], 
+    "Scikit-learn": ["Sklearn", "Scikit Learn"], "TensorFlow": ["Tensor Flow"], "PyTorch": ["Py Torch"]
+  },
+  "Cloud and DevOps": {
+    "GitHub": ["Git Hub"], "CI/CD": ["Continuous Integration", "Continuous Deployment"]
+  },
+  "Testing and Automation": {
+    "API Testing": ["API Test", "REST API Testing"], "Automation Testing": ["Test Automation"], "Pytest": ["Py Test"]
+  }
+}

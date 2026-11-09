@@ -1,0 +1,8 @@
+{
+  "experience": ["\\b\\d+\\+?\\s+years?\\s+(?:of\\s+)?experience\\b", "\\bminimum\\s+\\d+\\s+years?\\b",
+    "\\bmaximum\\s+\\d+\\s+years?\\b", "\\bfresher\\b", "\\bentry[- ]level\\b"],
+    
+  "education": ["\\bB\\.Tech\\b", "\\bB\\.E\\b", "\\bBCA\\b", "\\bMCA\\b", "\\bM\\.Tech\\b", "\\bM\\.E\\b",
+    "\\bBachelor(?:'s)?\\s+(?:degree|degree in)\\b", "\\bMaster(?:'s)?\\s+(?:degree|degree in)\\b",
+    "\\bgraduate\\b", "\\bpostgraduate\\b", "\\bPh\\.?D\\.?\\b"]
+}
