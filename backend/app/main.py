@@ -1,3 +1,4 @@
+import os
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -23,6 +24,12 @@ ALLOWED_ORIGINS = [
     "http://localhost:5175",
     "http://127.0.0.1:5175",
 ]
+
+# Add deployed frontend URL from environment variables
+FRONTEND_URL = os.getenv("FRONTEND_URL")
+
+if FRONTEND_URL:
+    ALLOWED_ORIGINS.append(FRONTEND_URL.rstrip("/"))
 
 # Configure CORS
 app.add_middleware(CORSMiddleware, allow_origins=ALLOWED_ORIGINS, allow_credentials=False,
